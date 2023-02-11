@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.container{
+    margin-top: 9vh;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.buttons{
+    margin-bottom: 3vh;
+}
+
+.btn{
+    border-radius: 2px ;
+    margin-right:1vw;
+}
